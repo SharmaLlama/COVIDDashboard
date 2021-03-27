@@ -1,0 +1,39 @@
+    .highlight {
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  padding-right: 2rem;
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.blue {
+  background-color: #0352FC;
+}
+.orange {
+  background-color: #FCBA03;
+}
+.green {
+  background-color: #00E827;
+}
+.red {
+  background-color: #E82B00;
+}
+span.highlight.blue{
+    margin: 0px 40px 40px 120px;
+    display: inline-block;
+}
+span.highlight.red{
+    margin: 0px 40px 40px 120px;
+    display: inline-block;
+}
+span.highlight.green{
+    margin: 0px 40px 40px 40px;
+    display: inline-block;
+}
+span.highlight.orange{
+    margin: 0px 40px 40px 40px;
+    display: inline-block;
+}
