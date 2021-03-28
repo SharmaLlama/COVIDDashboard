@@ -19,7 +19,7 @@ def main():
     PAGE_PY[choices].main()
     st.sidebar.title("About")
     st.sidebar.info("""
-    This simple dashboard is maintained by Utkarsh Sharma. You can learn more about me at []. """)
+    This simple dashboard is maintained by Utkarsh Sharma. You can learn more about me at [https://github.com/SharmaLlama]. """)
 
 
 if __name__ == "__main__":
